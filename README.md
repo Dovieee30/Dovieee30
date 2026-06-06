@@ -57,7 +57,7 @@
 <br/>
 
 
- 📊 Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 
 
- 🐍 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
