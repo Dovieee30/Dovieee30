@@ -6,7 +6,6 @@
 
 🏆 **1st Place at Axion Hackathon 2026**
 
-I identify structural gaps in underserved Indian markets and build AI-powered products around them — from college ecosystems to safety tools to government-grade SDKs.
 
 <br/>
 
@@ -16,18 +15,6 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Dovieee30.Dovieee30)](https://github.com/Dovieee30)
 
 </div>
-
----
-
-## 🚀 Projects
-
-| Project | What it does | Stack |
-|--------|-------------|-------|
-| 🪐 [**PLUTO**](https://plutoooo.vercel.app) | AI college ecosystem for India's 35M students — events, collaboration, portfolios | Node.js · Supabase · Groq · Firebase |
-| 🛡️ **ZWIGGY** | Safety app disguised as food delivery. AI distress detection + emergency alerts | React Native · AI |
-| 🥇 **FlowMind** | AI productivity tool · 1st Place, Axion Hackathon 2026 | React · Node.js |
-| 🪪 **NHAIFaceID** | Offline facial recognition SDK for NHAI's Datalake 3.0 field deployments | React Native |
-| 💼 **Debashree-Portfolio** | Personal portfolio — projects, skills, contact | TypeScript · Vercel |
 
 ---
 
