@@ -62,8 +62,8 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Dovieee30&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dovieee30&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dovieee30&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="150"/>
+<img src="https://github-readme-stats-eight-gamma-23.vercel.app/api?username=Dovieee30&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats-eight-gamma-23.vercel.app/api/top-langs/?username=Dovieee30&layout=compact&theme=dark&hide_border=true" height="150"/>
 
 </div>
 
