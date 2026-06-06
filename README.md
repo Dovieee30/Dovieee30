@@ -15,58 +15,17 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>TypeScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>Supabase
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>Firebase
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br/>Android Studio
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,supabase,firebase,git,css&perline=8" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Stats
 
@@ -75,12 +34,11 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Dovieee30&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Debashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dovieee30&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Dovieee30)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dovieee30&layout=compact&theme=dark&hide_border=true)](https://github.com/Dovieee30)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Trophies
 
@@ -90,7 +48,7 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Graph
 
@@ -100,7 +58,7 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
