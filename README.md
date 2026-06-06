@@ -7,11 +7,11 @@
 🏆 **1st Place at Axion Hackathon 2026**
 
 <br/>
-<div align="center">
+<br/> 
 
-🌐 <a href="https://debashreemal.vercel.app">Portfolio</a> • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"> <a href="https://www.linkedin.com/in/debashree-mal">LinkedIn</a>
 
-</div>
+
+ </div> <br/>
 </div>
 
 <br/>
