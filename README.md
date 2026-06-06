@@ -86,3 +86,28 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 [![Let's connect](https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debashree-mal)
 
 </div>
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dovieee30&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dovieee30&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Dovieee30&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dovieee30/Dovieee30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
