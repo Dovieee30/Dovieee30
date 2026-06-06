@@ -1,18 +1,31 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1&pause=999999&color=E8728A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Debashree+%F0%9F%A4%9D)
-
-**3rd year CE student shipping AI products that actually get used.**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Debashree+%F0%9F%A4%9D;Full-Stack+AI+Developer)
 
 🏆 **1st Place at Axion Hackathon 2026**
+
+I identify structural gaps in underserved Indian markets and build AI-powered products around them — from college ecosystems to safety tools to government-grade SDKs.
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debashree-mal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=flat-square&logo=firefox&logoColor=E8728A)](https://debashreemal.vercel.app)
-[![Email](https://img.shields.io/badge/Email-E8728A?style=flat-square&logo=gmail&logoColor=white)](mailto:debashreee87@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://debashreemal.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:debashreee87@gmail.com)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Dovieee30.Dovieee30)](https://github.com/Dovieee30)
 
 </div>
+
+---
+
+## 🚀 Projects
+
+| Project | What it does | Stack |
+|--------|-------------|-------|
+| 🪐 [**PLUTO**](https://plutoooo.vercel.app) | AI college ecosystem for India's 35M students — events, collaboration, portfolios | Node.js · Supabase · Groq · Firebase |
+| 🛡️ **ZWIGGY** | Safety app disguised as food delivery. AI distress detection + emergency alerts | React Native · AI |
+| 🥇 **FlowMind** | AI productivity tool · 1st Place, Axion Hackathon 2026 | React · Node.js |
+| 🪪 **NHAIFaceID** | Offline facial recognition SDK for NHAI's Datalake 3.0 field deployments | React Native |
+| 💼 [**Portfolio**](https://debashreemal.vercel.app) | Personal portfolio — projects, skills, contact | TypeScript · Vercel |
 
 ---
 
@@ -20,18 +33,18 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=E8728A)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=E8728A)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=E8728A)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=E8728A)
-![React Native](https://img.shields.io/badge/React_Native-1a1a2e?style=for-the-badge&logo=react&logoColor=E8728A)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=for-the-badge&logo=supabase&logoColor=E8728A)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=E8728A)
-![Groq](https://img.shields.io/badge/Groq-1a1a2e?style=for-the-badge&logo=groq&logoColor=E8728A)
-![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=E8728A)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=E8728A)
-![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=E8728A)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=E8728A)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -41,12 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dovieee30&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&title_color=E8728A&icon_color=E8728A&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dovieee30&layout=compact&theme=rose_pine&hide_border=true&title_color=E8728A&border_radius=10" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Dovieee30&theme=rose_pine&hide_border=true&ring=E8728A&fire=E8728A&currStreakLabel=E8728A" />
+<img src="https://streak-stats.demolab.com?user=Dovieee30&theme=dark&hide_border=true" />
 
 </div>
 
@@ -56,7 +64,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dovieee30&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dovieee30&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1)
 
 </div>
 
@@ -76,6 +84,6 @@
 
 *Open to freelance · collabs · ambitious ideas*
 
-[![Let's connect](https://img.shields.io/badge/Let's_talk-E8728A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debashree-mal)
+[![Let's connect](https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debashree-mal)
 
 </div>
