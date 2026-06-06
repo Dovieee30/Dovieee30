@@ -2,16 +2,12 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=800&pause=400&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Debashree+%F0%9F%A4%9D;Full-Stack+AI+Developer)
 
-**3rd year CE student shipping AI products that actually get used.**
+**Building AI-powered products that solve real-world problems.**
 
 🏆 **1st Place at Axion Hackathon 2026**
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debashree-mal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://debashreemal.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:debashreee87@gmail.com)
-
+🌐 [Portfolio](https://debashreemal.vercel.app) • 🔗 [LinkedIn](https://www.linkedin.com/in/debashree-mal)
 </div>
 
 <br/>
