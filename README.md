@@ -111,3 +111,52 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 
 </div>
 
+<div align="center">
+
+# Hi, I'm Debashree 👋
+
+**🏆 Axion Hackathon 2026 Winner**
+**🚀 Full-Stack & AI Developer**
+
+Building AI-powered products for real-world problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/debashree-mal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square\&logo=firefox\&logoColor=white)](https://debashreemal.vercel.app)
+
+</div>
+
+---
+
+### About Me
+
+* Building AI-powered applications
+* React, TypeScript, Node.js
+* Open Source Contributor
+* Interested in Product Design & Developer Tools
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dovieee30&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dovieee30&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Dovieee30&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+### 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dovieee30/Dovieee30/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph"/>
+
+</div>
+
