@@ -86,5 +86,26 @@
 
 </div>
 
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dovieee30&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=Dovieee30&theme=github-dark-blue&hide_border=true" height="170"/>
+
+</div>
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dovieee30&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Dovieee30&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 
