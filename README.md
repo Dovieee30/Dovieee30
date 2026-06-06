@@ -4,7 +4,7 @@
 
 **Building AI-powered products that solve real-world problems.**
 
-🥇 ** 1st Place — Axion Hackathon 2026**
+🥇 **1st Place — Axion Hackathon 2026**
 
 <br/>
 <div align="center">
