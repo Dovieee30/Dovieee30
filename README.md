@@ -15,7 +15,7 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🛠️ Tech Stack
 
@@ -25,30 +25,7 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 Stats
-
-<div align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Dovieee30&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Debashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dovieee30&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Dovieee30)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dovieee30&layout=compact&theme=dark&hide_border=true)](https://github.com/Dovieee30)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dovieee30&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🐍 Contribution Graph
 
@@ -58,7 +35,7 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <div align="center">
 
