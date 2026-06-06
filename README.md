@@ -160,3 +160,14 @@ Building AI-powered products for real-world problems.
 
 </div>
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Dovieee30/NHAIFaceID">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dovieee30&repo=NHAIFaceID&theme=github_dark&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Dovieee30/ZWIGGY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dovieee30&repo=REPO_NAME&theme=github_dark&hide_border=true" />
+  </a>
+</p>
