@@ -3,6 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=800&pause=400&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Debashree+%F0%9F%A4%9D;Full-Stack+AI+Developer)
 
 **3rd year CE student shipping AI products that actually get used.**
+
 🏆 **1st Place at Axion Hackathon 2026**
 
 <br/>
@@ -53,21 +54,16 @@
 </div>
 
 <br/>
- 📊 Stats
+
+
+## 📊 Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dovieee30&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dovieee30&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Dovieee30&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Dovieee30&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-<br/>
 
 
 ## 🐍 Contribution Graph
@@ -83,24 +79,6 @@
 *Open to freelance · collabs · ambitious ideas*
 
 [![Let's connect](https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debashree-mal)
-
-</div>
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dovieee30&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dovieee30&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=Dovieee30&theme=github-dark-blue&hide_border=true" height="170"/>
 
 </div>
 
