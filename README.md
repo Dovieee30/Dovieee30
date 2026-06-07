@@ -9,6 +9,18 @@
 
 <br/>
 
+<div align="center">
+Show Image
+🏆 1st Place at Axion Hackathon 2026
+I identify structural gaps in underserved Indian markets and build AI-powered products around them — from college ecosystems to safety tools to government-grade SDKs.
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
