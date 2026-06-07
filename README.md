@@ -79,6 +79,45 @@
 
 </div>
 
+## PROJECTS
+
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="20">
+<tr>
+
+<td align="left" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 24px 32px; width: 50%">
+
+**🛡️ ZWIGGY**
+
+Looks like a food app. Works like a safety net. AI detects distress and auto-alerts trusted contacts. A 3-tap + PIN activates emergency support — silently, always ready.
+
+**Stack:** React · Vite · Supabase · Edge Functions · Twilio · Whisper API · Vercel
+
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://zwiggy-app.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dovieee30/Zwiggy)
+
+</td>
+
+<td align="left" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 24px 32px; width: 50%">
+
+**🪪 NHAIFaceID SDK**
+
+Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field personnel on remote construction sites — fully offline, zero compromises on security.
+
+**Stack:** React Native · Kotlin · TensorFlow Lite · BlazeFace · MobileFaceNet · ONNX · SQLite · AWS
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyushyenorkar/NHAIFaceID)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:B76E79&height=200&section=header&text=Hey,%20I'm%20Debashree&fontSize=50&fontColor=fff&animation=fadeIn&desc=Full-Stack%20AI%20Developer&descSize=25&descAlignY=70)
@@ -146,31 +185,53 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="20">
+<table border="0" cellpadding="0" cellspacing="24">
 <tr>
 
-<td align="left" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 24px 32px; width: 50%">
+<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px;">
 
-**🛡️ ZWIGGY**
+### 🛡️ ZWIGGY
 
-Looks like a food app. Works like a safety net. AI detects distress and auto-alerts trusted contacts. A 3-tap + PIN activates emergency support — silently, always ready.
+*Looks like a food app. Works like a safety net.*
 
-**Stack:** React · Vite · Supabase · Edge Functions · Twilio · Whisper API · Vercel
+AI detects distress and auto-alerts trusted contacts. A 3-tap + PIN activates emergency support — silently, always ready.
 
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://zwiggy-app.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dovieee30/Zwiggy)
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+<br/><br/>
+
+[![Live](https://img.shields.io/badge/Live%20Demo-ffffff?style=for-the-badge&logo=vercel&logoColor=000000)](https://zwiggy-app.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dovieee30/Zwiggy)
 
 </td>
 
-<td align="left" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 24px 32px; width: 50%">
+<td width="24"></td>
 
-**🪪 NHAIFaceID SDK**
+<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px;">
 
-Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field personnel on remote construction sites — fully offline, zero compromises on security.
+### 🪪 NHAIFaceID SDK
 
-**Stack:** React Native · Kotlin · TensorFlow Lite · BlazeFace · MobileFaceNet · ONNX · SQLite · AWS
+*Sub-300ms. Fully offline. Zero compromises.*
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyushyenorkar/NHAIFaceID)
+Facial recognition and anti-spoofing SDK for NHAI field personnel — authenticates on remote construction sites with no internet.
+
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+<br/><br/>
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushyenorkar/NHAIFaceID)
 
 </td>
 
