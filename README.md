@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=800&pause=400&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Debashree+%F0%9F%A4%9D;Full-Stack+AI+Developer)
 
+![Banner](https://raw.githubusercontent.com/Dovieee30/Dovieee30/main/banner.png)
+
 <br/>
 <div align="center">
 </div>
