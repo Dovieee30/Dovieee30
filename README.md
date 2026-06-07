@@ -68,9 +68,6 @@ Looks like a food app. Works like a safety net. AI detects distress and auto-ale
 
 <br/>
 
-[![Live](https://img.shields.io/badge/Live-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://zwiggy-app.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Dovieee30/Zwiggy)
-
 [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://zwiggy-app.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dovieee30/Zwiggy)
 
@@ -93,8 +90,6 @@ Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=white)
 
 <br/>
-
-[![Repo](https://img.shields.io/badge/Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/piyushyenorkar/NHAIFaceID)
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyushyenorkar/NHAIFaceID)
 
