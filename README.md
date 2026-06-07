@@ -88,6 +88,7 @@ Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=white)
 
 <br/>
+
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyushyenorkar/NHAIFaceID)
 
 </td>
