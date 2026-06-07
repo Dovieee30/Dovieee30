@@ -172,6 +172,92 @@ I identify structural gaps in underserved Indian markets and build AI-powered pr
 
 </div>
 
+<div align="center">
+
+```
+  ____       _               _
+ |  _ \  ___| |__   __ _ ___| |__  _ __ ___  ___
+ | | | |/ _ \ '_ \ / _` / __| '_ \| '__/ _ \/ _ \
+ | |_| |  __/ |_) | (_| \__ \ | | | | |  __/  __/
+ |____/ \___|_.__/ \__,_|___/_| |_|_|  \___|\___|
+```
+
+**Full-Stack AI Developer**
+
+🏆 **1st Place at Axion Hackathon 2026**
+
+I identify structural gaps in underserved Indian markets and build AI-powered products around them — from college ecosystems to safety tools to government-grade SDKs.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debashree-mal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://debashreemal.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:debashreee87@gmail.com)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Dovieee30.Dovieee30)](https://github.com/Dovieee30)
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,supabase,postgresql,mongodb" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,git,vercel" />
+
+</div>
+
+<br/>
+
+## 🚀 Projects
+
+<div align="center">
+
+[![ZWIGGY](https://github-readme-stats.vercel.app/api/pin/?username=Dovieee30&repo=Zwiggy&theme=dark&hide_border=true)](https://github.com/Dovieee30/Zwiggy)
+
+</div>
+
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Dovieee30&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Dovieee30's Profile Summary](https://profile-summary-for-github.vercel.app/api?username=Dovieee30&theme=dark)](https://profile-summary-for-github.vercel.app/user/Dovieee30)
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/Dovieee30/Dovieee30/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Open to freelance · collabs · ambitious ideas*
+
+[![Let's connect](https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debashree-mal)
+
+</div>
 
 
 
