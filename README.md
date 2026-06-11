@@ -62,7 +62,6 @@ Looks like a food app. Works like a safety net. AI detects distress and auto-ale
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-0d1117?style=flat-square&logo=twilio&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper_API-0d1117?style=flat-square&logo=openai&logoColor=white)
 
 <br/>
 
