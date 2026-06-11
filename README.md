@@ -52,7 +52,7 @@
 
 <td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px;">
 
-### 🛡️ ZWIGGY
+###  ZWIGGY
 
 Looks like a food app. Works like a safety net. AI detects distress and auto-alerts trusted contacts. A 3-tap + PIN 5678 activates emergency support — silently, always ready.
 
@@ -75,7 +75,7 @@ Looks like a food app. Works like a safety net. AI detects distress and auto-ale
 
 <td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px;">
 
-### 🪪 NHAIFaceID SDK
+###  NHAIFaceID SDK
 
 Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field personnel on remote construction sites — fully offline, with zero compromises on security.
 
