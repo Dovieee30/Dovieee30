@@ -119,6 +119,8 @@ Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field
 <div align="center">
 
 *Open to freelance · collabs · ambitious ideas*
+
+
 [![Let's connect](https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debashree-mal)
 
 </div>
