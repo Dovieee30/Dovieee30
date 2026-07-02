@@ -8,7 +8,6 @@
 <br/>
 
 ## TECH STACK
-
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="12">
