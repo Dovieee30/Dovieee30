@@ -12,7 +12,7 @@
 
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td align="center" valign="top" style="border:1px solid #30363d; border-radius:8px; padding:16px; width:33%">
+<td align="center" style="border:1px solid #30363d; border-radius:8px; padding:16px; width:33%">
 
 **Frontend**
 
