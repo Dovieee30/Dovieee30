@@ -67,6 +67,19 @@ Looks like a food app. Works like a safety net. AI detects distress and auto-ale
 [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://zwiggy-app.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dovieee30/Zwiggy)
 
+### FLOWMIND
+The PM that never forgets. AI listens to meetings, auto-assigns tasks by skill, and uses a Neo4j knowledge graph to predict bottlenecks before they derail your project.
+<br/>
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-0d1117?style=flat-square&logo=neo4j&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square&logoColor=white)
+<br/>
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://flowwithmind.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyushyenorkar/FlowMind)
+</td>
+
 </td>
 
 <td width="24"></td>
