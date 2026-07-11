@@ -47,23 +47,23 @@
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="24">
 <tr>
-<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px;">
+<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px; background-color: #0d1117;">
 
-###  ZWIGGY
+### <img src="https://raw.githubusercontent.com/Dovieee30/Zwiggy/main/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png" width="28" align="absmiddle"/> ZWIGGY
 Looks like a food app. Works like a safety net. AI detects distress and auto-alerts trusted contacts. A 3-tap + PIN 5678 activates emergency support — silently, always ready.
 <br/>
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-0d1117?style=flat-square&logo=twilio&logoColor=white)
-<br/>
+<br/><br/>
 [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://zwiggy-app.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dovieee30/Zwiggy)
 
 </td>
-<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px;">
+<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px; background-color: #0d1117;">
 
-### FLOWMIND
+### <img src="https://raw.githubusercontent.com/piyushyenorkar/FlowMind/main/flowmind/src/assets/favicon.png" width="28" align="absmiddle"/> FLOWMIND
 The PM that never forgets. AI listens to meetings, auto-assigns tasks by skill, and uses a Neo4j knowledge graph to predict bottlenecks before they derail your project.
 <br/>
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white)
@@ -71,16 +71,16 @@ The PM that never forgets. AI listens to meetings, auto-assigns tasks by skill, 
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-0d1117?style=flat-square&logo=neo4j&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square&logoColor=white)
-<br/>
+<br/><br/>
 [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://flowwithmind.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyushyenorkar/FlowMind)
 
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px;">
+<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px; background-color: #0d1117;">
 
-###  NHAIFaceID SDK
+### <img src="https://raw.githubusercontent.com/piyushyenorkar/NHAIFaceID/main/NHAIFaceID/Logo.png" width="28" align="absmiddle"/> NHAIFaceID SDK
 Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field personnel on remote construction sites — fully offline, with zero compromises on security.
 <br/>
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=white)
@@ -88,19 +88,19 @@ Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field
 ![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-0d1117?style=flat-square&logo=tensorflow&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=white)
-<br/>
+<br/><br/>
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/piyushyenorkar/NHAIFaceID)
 
 </td>
-<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px;">
+<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px; background-color: #0d1117;">
 
-###  QUIRKLINK
+### <img src="https://raw.githubusercontent.com/Dovieee30/QuirkLink/main/app/favicon.ico" width="28" align="absmiddle"/> QUIRKLINK
 A fast, minimal URL shortener built from scratch to deployment — full-stack JS with server-side API routes, a NoSQL database, and serverless deployment, no separate backend required.
 <br/>
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
-<br/>
+<br/><br/>
 [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://quirklink.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dovieee30/QuirkLink)
 
