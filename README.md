@@ -67,7 +67,8 @@ Looks like a food app. Works like a safety net. AI detects distress and auto-ale
 [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://zwiggy-app.vercel.app)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dovieee30/Zwiggy)
 
-<hr style="border: none; height: 1px; background-color: #30363d; margin: 20px 0;"/>
+
+<td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px;">
 
 ### FLOWMIND
 The PM that never forgets. AI listens to meetings, auto-assigns tasks by skill, and uses a Neo4j knowledge graph to predict bottlenecks before they derail your project.
