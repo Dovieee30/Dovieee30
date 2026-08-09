@@ -50,7 +50,7 @@
 <td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px; background-color: #0d1117;">
  
 ### ZWIGGY
-Looks like a food app. Works like a safety net. AI detects distress and auto-alerts trusted contacts. A 3-tap + PIN 5678 activates emergency support — silently, always ready.
+Looks like a food app. Works like a safety net. AI detects distress and auto-alerts trusted contacts. A 3-tap + PIN 5678 activates emergency support - silently, always ready.
 <br/><br/>
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=white)
@@ -81,7 +81,7 @@ The PM that never forgets. AI listens to meetings, auto-assigns tasks by skill, 
 <td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px; background-color: #0d1117;">
 
 ### <img src="https://raw.githubusercontent.com/piyushyenorkar/NHAIFaceID/main/NHAIFaceID/Logo.png" width="28" align="absmiddle"/> NHAIFaceID SDK
-Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field personnel on remote construction sites — fully offline, with zero compromises on security.
+Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field personnel on remote construction sites - fully offline, with zero compromises on security.
 <br/><br/>
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=white)
@@ -95,7 +95,7 @@ Sub-300ms facial recognition and anti-spoofing SDK that authenticates NHAI field
 <td align="center" valign="top" width="48%" style="border: 1px solid #30363d; border-radius: 12px; padding: 28px 28px; background-color: #0d1117;">
 
 ### QUIRKLINK
-A fast, minimal URL shortener built from scratch to deployment — full-stack JS with server-side API routes, a NoSQL database, and serverless deployment, no separate backend required.
+A fast, minimal URL shortener built from scratch to deployment - full-stack JS with server-side API routes, a NoSQL database, and serverless deployment, no separate backend required.
 <br/><br/>
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=white)
